@@ -96,17 +96,17 @@ No telemetry.
 No data leaks.
 Everything stays on my machine.
                    ┌───────────────────────────────┐
-                   │            Streamlit UI        │
-                   │  Chat • Voice • Memory Editor  │
+                   │         Streamlit UI          │
+                   │  Chat • Voice • Memory Editor │
                    └──────────────┬────────────────┘
                                   │
                                   ▼
-                    ┌──────────────────────────────┐
-                    │         Jarvis Core          │
-                    │  - System Prompt             │
-                    │  - Mode Switcher             │
-                    │  - Context Builder           │
-                    └──────────────┬──────────────┘
+                   ┌──────────────────────────────┐
+                   |         Jarvis Core          │
+                   |   - System Prompt            │
+                   |  - Mode Switcher             │
+                   |  - Context Builder           │
+                   └──────────────┬──────────────┘
                                   │
              ┌────────────────────┼────────────────────┐
              ▼                    ▼                    ▼
