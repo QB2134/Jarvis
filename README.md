@@ -1,4 +1,4 @@
-# Jarvis
+# Jarvis- Just a Rather Very Intelligent System.
 Black-coded, memory-driven, voice-enabled, locally aligned intelligence.
 <p align="center"> <img src="https://github.com/user-attachments/assets/example-logo" width="140"/> </p>
 
