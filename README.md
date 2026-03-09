@@ -1,6 +1,4 @@
 # Jarvis- Just a Rather Very Intelligent System.
-Black-coded, memory-driven, voice-enabled, locally aligned intelligence.
-<p align="center"> <img src="https://github.com/user-attachments/assets/example-logo" width="140"/> </p>
 
 Jarvis is my fully local, privacy-preserving, personalized AI assistant built around a custom system prompt, vector memory, voice input/output, and modular tool integrations.
 
@@ -25,7 +23,6 @@ Jarvis behaves as a personal AI operating system—not just a chatbot—designed
 🧠 Intelligent dialogue
 📚 Quantitative analysis & math reasoning
 💻 Coding assistance (Python, C++, etc.)
-🌍 Black-coded philosophical grounding
 🎤 Voice-to-text & text-to-speech
 📁 Persistent memory & semantic recall
 🛠️ Local tools & automation
